@@ -16,6 +16,7 @@
 *.log
 
 output/host_ips.txt
+.DS_Store
 
 # Crash log files
 crash.log
